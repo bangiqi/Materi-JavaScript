@@ -22,3 +22,11 @@
 2. Penggunaan WebPack dan Babel
 3. React Js Tingkat lanjut
 4. Build API dengan Express Js dan Monggo DB
+
+## Slide
+
+Slide diupload di [https://speakerdeck.com/](https://speakerdeck.com/)
+
+## Source Code
+
+Source Code dapat di unduh di [https://github.com/](https://github.com/)
