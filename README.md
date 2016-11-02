@@ -17,6 +17,7 @@
 7. Pengenalan dan Implementasi Vue Js
 8. Pengenalan Node Js
 9. Pengenalan Monggo DB
+
 ## Advanced
 1. Penggunaan Build System JavaScript menggunakan Gulp
 2. Penggunaan WebPack dan Babel
